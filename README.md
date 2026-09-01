@@ -43,6 +43,4 @@
   
   * 📧 Email: ho04029@naver.com
   
-  <br/>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fho04029&count_bg=%238C6D6D&title_bg=%23A69677&icon=googlekeep.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+
