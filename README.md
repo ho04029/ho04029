@@ -53,17 +53,19 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/> 
   </div>
+
   ---
 
   ### 💼 Featured Projects
 
   **✈️ 랜덤 여행지 추천 서비스**
   <p> 여행지를 직접 선택하기 어려운 사용자를 위해 랜덤으로 여행지를 추천하고 여행 계획을 생성할 수 있는 웹 서비스 </p>
-  <p> Next.js와 TypeScript를 기반으로 여행지 데이터 조회 및 여행 계획 생성 기능을 구현하고, 사용자가 간단한 선택만으로 여행지를 탐색할 수 있도록 
+  <p> Next.js와 TypeScript를 기반으로 여행지 데이터 조회 및 여행 계획 생성 기능을 구현하고, <br> 사용자가 간단한 선택만으로 여행지를 탐색할 수 있도록 
     사용자 흐름을 설계했습니다. 
   </p>
   
-  **[MY IDOL]** (https://myidol.vercel.app/)
+  **🎨 MY IDOL**
+  <a href="https://myidol.vercel.app/"> <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white"/> </a>
   <p> 그룹별 테마와 앨범 판매 데이터를 활용한 아이돌 정보 시각화 웹 애플리케이션 </p>
   <p> 디자이너와 Figma를 기반으로 협업하고, 공통 UI 컴포넌트를 설계하여 일관된 사용자 경험을 구현했습니다. </p>
   
